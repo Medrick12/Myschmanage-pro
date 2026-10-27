@@ -1,2 +1,1 @@
-# Myschmanage-pro
-School management system 
+edumanage-pro-ug-backup.
